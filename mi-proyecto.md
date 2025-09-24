@@ -8,3 +8,5 @@ Versión desarrollada en rama feature
 Versión desarrollada en rama main
 ## Información del proyecto
 Versión combinada de ambas ramas
+## Información del proyecto
+Versión combinada de ambas ramas
