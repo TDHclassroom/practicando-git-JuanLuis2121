@@ -36,7 +36,8 @@ El repositorio debe estar inicializado y configurado correctamente.
 
 Una vez que hayas completado el ejercicio ejecuta:
 ```bash
-npm test ejercicio/1
+npm test ejercicio/1 
+
 ```
 
 Si pasa todos los test, continúa con el siguiente ejercicio.
